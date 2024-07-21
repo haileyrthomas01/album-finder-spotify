@@ -22,7 +22,7 @@ Successfully created a functional and aesthetically pleasing web application, wh
 
 ## Project Link
 
-You can find the detailed project description and instructions on CodeDex: [Build an Album Finder with Spotify API](https://www.codedex.io/projects/build-an-album-finder-with-spotify-api)
+You can find the detailed project description and instructions on Codédex: [Build an Album Finder with Spotify API](https://www.codedex.io/projects/build-an-album-finder-with-spotify-api)
 
 
 ## React + Vite
