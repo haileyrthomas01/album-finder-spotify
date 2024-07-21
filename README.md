@@ -2,6 +2,10 @@
 
 This project is an interactive web application that allows users to search for and display albums from various artists using the Spotify API.
 
+## Example Run
+
+![Example Run](images/albumfinder.png)
+
 ## Key Features
 
 - Real-time Album Search
