@@ -25,7 +25,7 @@ Successfully created a functional and aesthetically pleasing web application, wh
 You can find the detailed project description and instructions on CodeDex: [Build an Album Finder with Spotify API](https://www.codedex.io/projects/build-an-album-finder-with-spotify-api)
 
 
-# React + Vite
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
