@@ -4,7 +4,7 @@ This project is an interactive web application that allows users to search for a
 
 ## Example Run
 
-![Example Run](images/albumfinder.png)
+![Example Run](albumfinder.png)
 
 ## Key Features
 
